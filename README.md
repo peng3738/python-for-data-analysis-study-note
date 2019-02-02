@@ -1,6 +1,6 @@
 # python-for-data-analysis-study-note
-Self study note for the book <Python for Data Analysis> by Wes McKinney, Published by O'Reilly Media,Inc.
-    [Chapter 3: Built-in Data Structures, Fuctions, and Files](chapter3.py) 
+Self study note for the book <Python for Data Analysis> by Wes McKinney, Published by O'Reilly Media,Inc.  
+    [Chapter 3: Built-in Data Structures, Fuctions, and Files](chapter3.py)   
     [Chapter 4: NumPy Basics: Arrays and Vectorized Computation.](chapter4.py)  
     [Chapter 5: Getting Started with pandas.](chapter5.py)  
     [Chapter 6: Data Loading, Storage, and File Formats.](chapter6.py)  
